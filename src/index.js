@@ -7,7 +7,7 @@ import './styles/main.scss'
 
 // создаем элемент заголовка
 const heading = document.createElement('h1')
-heading.textContent = 'Как интересно!'
+heading.textContent = 'Webpack 5 boiler'
 
 // добавляем заголовок в DOM
 const root = document.querySelector('#app')
